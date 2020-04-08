@@ -50,11 +50,13 @@ RUN echo CACHEBUST>/dev/null && clean-install \
     git \
     glusterfs-client \
     iptables \
+    iproute2 \
     ipset \
     jq \
     kmod \
     openssh-client \
     netbase \
+    net-tools \
     nfs-common \
     socat \
     udev \
